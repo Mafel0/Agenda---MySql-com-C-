@@ -18,7 +18,7 @@ namespace $safeprojectname$
             "server=localhost;" + // local onde está o banco de dados
             "database=meuteste;" + //nome do banco de dados
             "uid=root;" + // usuário do banco de dados
-            "password=minhasenha;" + // senha do banco de dados
+            "password=coloqueaquisuasenha;" + // senha do banco de dados
             "pwd="
             );
 
